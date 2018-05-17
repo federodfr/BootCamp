@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+
+}
+
+.content{
+	width: 60%;
+	background: none;
+	font-size: 14px;
+}
+.content-footer h4{
+	display: inline-block;
+}
+
+.footer{
+	font-size: 10px;
+	background: magenta;
+}
+
+.header{
+	font-size: 46px;
+	background: magenta;
+}
+
+.navigation{
+	width: 15%;
+	float: left;
+	background: blue;
+	font-size: 12px;
+}
+
+.navigation-button{
+	width: 80%;
+	padding: 10% 10% 10% 10%;
+	margin: 10% 10% 10% 10%;
+	border: none;
+}
+.navigation a{
+	display: block;
+	text-align: center;
+	border: 3px solid white;
+	color:black;
+}
+
+.navigation div{
+	border: 3px solid white;
+}
+
+.position{
+	display: inline-block;
+}
+
+.sidebar{
+	float: right;
+	width: 25%;
+	background: magenta;
+	font-size: 10px;
+	text-align: center;
+}
+
+.sidebar video{
+	width: 90%;
+	display: inline;
+	overflow: hidden;
+}
+
+
